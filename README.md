@@ -15,7 +15,7 @@ It analyzes **monthly sales data, top products, and revenue trends** to provide 
 
 
 ## Files in This Repository
-- 'data/sales_data.xlsx'
+- 'data/' sales_data.xlsx'
 - `visuals/` → Screenshot(s) of the dashboard
 - `powerbi/` → Power BI `.pbix` file
 - `notes/` 
