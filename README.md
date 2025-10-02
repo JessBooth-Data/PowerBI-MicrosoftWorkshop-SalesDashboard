@@ -14,13 +14,11 @@ It analyzes **monthly sales data, top products, and revenue trends** to provide 
 - Monthly revenue trends show consistent growth
 
 
-## Files in This Repository
-- 'data/' sales_data.xlsx'
-- `visuals/` → Screenshot(s) of the dashboard
-- `powerbi/` → Power BI `.pbix` file
-- `notes/` 
+## Files
+- [Excel Data](data/sales_data.xlsx)
+- [Power BI File](powerbi/sales_dashboard.pbix)
 
-## Screenshots
+## Screenshot
 ![Dashboard Screenshot](visuals/dashboard_screenshot.png)
 
 ## How to Use
